@@ -1,7 +1,35 @@
+body{background-color:peachpuff;
+    text-align:center;
+    
+}
+ul{
+    list-style-type:none;
+}
+ol{
+    list-style-type:none;
+}
+
+
 h2{
     color:green;
     font-family:"Sniglet",cursive;
+    
+}
+h1{
+    color:blue;
+    
 }
 li{
     font-family:"Satisfy",cursive;
+    
+}
+p{
+    color:red;
+    
+}
+strong{
+    font-style:italic;
+}
+em{
+    font-weight:900; 
 }
